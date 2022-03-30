@@ -11,5 +11,8 @@ public class Test1 {
 	     System.out.println("addition of a and b is"+c);
 
 	}
-
+public static int addition(int x,int y)
+{
+	return(x+y);
+}
 }
